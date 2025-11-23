@@ -6,7 +6,7 @@ Forked from the original: https://github.com/RedBigz/macadamia by RedBigz
 
 ## Setup
 ### Prebuilt (I want little hassle)
-Head over to the [releases](https://git.redbigz.com/red/macadamia/releases) page to download the latest version of Macadamia.
+Head over to the [releases](https://github.com/Combinebobnt/macadamia/releases) page to download the latest version of Macadamia.
 
 ### Compiled (I want the bleeding edge)
 Run these commands in order:
