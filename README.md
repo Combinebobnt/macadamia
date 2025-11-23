@@ -13,7 +13,7 @@ Run these commands in order:
 
 *Windows (posh)*
 ```powershell
-git clone https://git.redbigz.com/red/macadamia.git
+git clone https://github.com/Combinebobnt/macadamia.git
 cd macadamia
 
 npm install # Installs related NPM packages, must have node installed
@@ -22,7 +22,7 @@ npm run build # Builds macadamia to .\out\macadamia.js
 
 *Mac/Linux (bash)*
 ```bash
-git clone https://git.redbigz.com/red/macadamia.git
+git clone https://github.com/Combinebobnt/macadamia.git
 cd macadamia
 
 npm install # Installs related NPM packages, must have node installed
