@@ -2,6 +2,8 @@
 
 Macadamia is a custom mod loader for Cookie Clicker which allows players to play online, with dedicated mod APIs to communicate over the Internet.
 
+Forked from the original: https://github.com/RedBigz/macadamia by RedBigz
+
 ## Setup
 ### Prebuilt (I want little hassle)
 Head over to the [releases](https://git.redbigz.com/red/macadamia/releases) page to download the latest version of Macadamia.
