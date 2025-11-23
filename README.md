@@ -39,11 +39,20 @@ npm run buildLinux # Builds macadamia to ./out/macadamia.js
 - Wreak havoc on your save file
 - Possibly run a DoS attack on your internet connection
 
+#### Initial Load
+1. Grab `macadamia.js` from the "Setup" section, either through Releases or compiling it yourself
+2. Go to the cookie clicker site: https://orteil.dashnet.org/cookieclicker/
+3. F12 to open developer tools; go to Console
+4. Paste the contents of `macadamia.js` into the console and hit enter. Loading messages should appear.
+   - This is possibly automatable with a script, but I don't have that set up.
+
 #### Joining a Game
 ![](img/usage1.png)
 
-The host must press the invite button, copy their Peer ID, and send it to the joining player.
-The joining player will then be able to press the "Join" button, and start playing after inputting the host's Peer ID.
+The host must press the "Invite" button, copy their Peer ID, and send it to the joining player.
+The joining player will then be able to press the "Join Game" button, and start playing after inputting the host's Peer ID.
+
+You can set your name with the options button on the right of "Join Game"
 
 ## Basic Docs
 There isn't any documentation available yet, but here is a basic mod sample you can lean off of for your mod:
