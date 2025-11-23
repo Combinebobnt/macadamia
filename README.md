@@ -9,9 +9,6 @@ Forked from the original: https://github.com/RedBigz/macadamia by RedBigz
 Head over to the [releases](https://git.redbigz.com/red/macadamia/releases) page to download the latest version of Macadamia.
 
 ### Compiled (I want the bleeding edge)
-**UPDATE: Actions has been added, so if you don't want to get your hands dirty, look for an artifact [here](https://git.redbigz.com/red/macadamia/actions).**
-
-
 Run these commands in order:
 
 *Windows (posh)*
@@ -52,7 +49,7 @@ npm run buildLinux # Builds macadamia to ./out/macadamia.js
 The host must press the "Invite" button, copy their Peer ID, and send it to the joining player.
 The joining player will then be able to press the "Join Game" button, and start playing after inputting the host's Peer ID.
 
-You can set your name with the options button on the right of "Join Game"
+You can set your name with the options button on the right of "Join Game".
 
 ## Basic Docs
 There isn't any documentation available yet, but here is a basic mod sample you can lean off of for your mod:
